@@ -1,0 +1,956 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.metadata/
+bin/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Environment variables
+.env
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Spring Boot
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Test reports
+test-reports/
+
+# Coverage reports
+coverage/
+
+# Backup files
+*~
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific
+*.swp
+*.swo
+
+# IDE specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Others
+!.mvn/wrapper/maven-wrapper.jar
+
+# Build outputs
+out/
+
+# Logs and data
+*.log
+*.data
+
+# Backup files
+*.bak
+*.backup
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Coverage
+coverage.xml
+
+# Dependency directories
+lib/
+
+# IDE specific
+*.pid
+*.pid.lock
+
+# Docker
+*.dockerignore
+
+# Project specific
+src/main/resources/static/
+src/main/resources/templates/
+
+# Output directories
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Maven
+maven-metadata.xml
+
+# Gradle
+gradle.properties
+gradlew
+gradlew.bat
+
+# IDE specific
+*.classpath
+*.project
+
+# Other
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+src/main/resources/application-test.properties
+
+# Logs
+*.log
+logs/
+
+# Coverage
+coverage/
+
+# Docker
+Dockerfile
+
+# Environment variables
+.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config files
+config/secret/
+
+# Generated files
+src/main/java/com/annotation/*.java
+src/main/java/com/config/*.java
+src/main/java/com/controller/*.java
+src/main/java/com/dao/*.java
+src/main/java/com/entity/*.java
+src/main/java/com/entity/model/*.java
+src/main/java/com/entity/view/*.java
+src/main/java/com/entity/vo/*.java
+src/main/java/com/service/*.java
+src/main/java/com/utils/*.java
+
+# Build outputs
+out/
+bin/
+
+# IDE specific
+*.iml
+
+# Project-specific
+README.md
+
+# Generated files
